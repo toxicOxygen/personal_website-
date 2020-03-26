@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 django = "*"
 django-widget-tweaks = "==1.1"
+gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
