@@ -11,6 +11,8 @@ django = "*"
 django-widget-tweaks = "==1.1"
 gunicorn = "*"
 django-heroku = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.8"
